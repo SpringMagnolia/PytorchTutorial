@@ -1,13 +1,5 @@
 # Seq2Seq模型的原理
 
-## 目标
-
-1. 知道seq2seq的常见应用场景
-2. 能够说出常见的seq2seq的结构
-3. 能够使用代码完成基础的seq2seq的结构
-
-
-
 ## 1. Seq2Seq的介绍
 
 ![](images/seq2seq.png)
